@@ -1,0 +1,18 @@
+{
+  "exact": {
+    "General": "通用",
+    "Appearance": "外观",
+    "Shortcuts": "快捷键",
+    "Privacy": "隐私",
+    "Advanced": "高级",
+    "Model": "模型",
+    "Temperature": "温度",
+    "Max tokens": "最大令牌数",
+    "Enable": "启用",
+    "Disable": "禁用",
+    "Save": "保存",
+    "Delete": "删除",
+    "Edit": "编辑",
+    "Close": "关闭"
+  }
+}

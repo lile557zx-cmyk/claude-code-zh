@@ -1,0 +1,16 @@
+{
+  "patterns": [
+    {
+      "pattern": "^(\\d+) tokens?$",
+      "replacement": "$1 个令牌"
+    },
+    {
+      "pattern": "^(\\d+) files? changed$",
+      "replacement": "$1 个文件已更改"
+    },
+    {
+      "pattern": "^Loading (\\d+)%$",
+      "replacement": "加载中 $1%"
+    }
+  ]
+}

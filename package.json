@@ -1,0 +1,37 @@
+{
+  "name": "claude-code-zh",
+  "version": "0.1.0",
+  "description": "Claude Code 界面中文化（运行时注入，不改安装文件）",
+  "main": "src/launcher.js",
+  "bin": {
+    "claude-code-zh": "./src/launcher.js"
+  },
+  "scripts": {
+    "start": "node src/launcher.js",
+    "dev": "node src/launcher.js --dev",
+    "build": "node build/build.js",
+    "test": "node test/translator.test.js",
+    "update-dict": "node scripts/update-dict.js"
+  },
+  "keywords": [
+    "claude-code",
+    "localization",
+    "chinese",
+    "i18n",
+    "anthropic",
+    "electron",
+    "cdp"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/claude-code-zh.git"
+  },
+  "dependencies": {
+    "chrome-remote-interface": "^0.33.0"
+  },
+  "devDependencies": {
+    "pkg": "^5.8.1"
+  }
+}

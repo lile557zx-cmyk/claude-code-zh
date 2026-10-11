@@ -1,0 +1,19 @@
+{
+  "exact": {
+    "Cowork": "协作",
+    "Code": "代码",
+    "New": "新建",
+    "Customize": "自定义",
+    "More": "更多",
+    "Search": "搜索",
+    "New Session": "新建会话",
+    "Settings": "设置",
+    "Help": "帮助",
+    "Sign out": "退出登录",
+    "Auto": "自动",
+    "Default model": "默认模型",
+    "Pinned": "已固定",
+    "Recent": "最近",
+    "Archive": "归档"
+  }
+}

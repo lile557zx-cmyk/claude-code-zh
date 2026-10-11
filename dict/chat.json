@@ -1,0 +1,16 @@
+{
+  "exact": {
+    "Type / for commands": "输入 / 使用命令",
+    "Ask me anything": "向我提问",
+    "Thinking...": "思考中...",
+    "Working...": "工作中...",
+    "Reading files...": "读取文件中...",
+    "Writing files...": "写入文件中...",
+    "Running command...": "运行命令中...",
+    "Copy": "复制",
+    "Retry": "重试",
+    "Stop": "停止",
+    "Continue": "继续",
+    "Cancel": "取消"
+  }
+}
